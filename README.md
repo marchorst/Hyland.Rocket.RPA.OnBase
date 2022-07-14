@@ -1,6 +1,6 @@
 # Hyland RPA Onbase / Unity **Custom Activities**
 This activities are build for showcases and customers who want to start as early as possible with Hyland RPA integration to OnBase.\
-*Official "Core-Activities" will be available around April 2021.*
+
 ## Unity Scope
 You have to use the following activities inside a Unity Scope Activity.\
 When using Onbase connection multiple times in the process you should create a "Connection" variable/argument.\
