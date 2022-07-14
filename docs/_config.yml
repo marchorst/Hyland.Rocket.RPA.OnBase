@@ -26,3 +26,5 @@ baseurl: /Hyland.Rocket.RPA.OnBase/
 # Build settings
 theme: jekyll-theme-cayman
 show_downloads: true
+sass:
+  implementation: sass-embedded
