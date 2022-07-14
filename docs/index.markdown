@@ -18,8 +18,9 @@ Archives Documents.
 ## Get Document keywords by DocId
 Get Keywords from a Document.
 
-Standard Keyword Record		|	AdditionalMultiInstanceKeywordRecord_[INDEX]
-[DataTable with Keywords]	|	[DataTable with Keywords]
+| Standard Keyword Record		|	AdditionalMultiInstanceKeywordRecord_[INDEX] |
+| ------------- | -----:|
+| [DataTable with Keywords]	|	[DataTable with Keywords] |
 
 ## Update Document keywords by DocId
 Updates a specific Keyword Value and / or creates it when it is not existing yet.
