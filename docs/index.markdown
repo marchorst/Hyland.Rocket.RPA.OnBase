@@ -5,6 +5,17 @@ title: Welcome to Hyland Rocket RPA OnBase
 # Hyland RPA Onbase / Unity **Custom Activities**
 This activities are build for showcases and customers who want to start as early as possible with Hyland RPA integration to OnBase.
 
+## How to install
+When downloading the activities, they may be blocked by Windows and you need to unblock them.
+
+This can be done either with right click -> Properties -> Unblock or with Powershell in the folder `ls | Unblock-File`.
+
+### Designer
+Copy all files to `%localappdata%\AnotherMonday\Composer\Libraries` (Default folder)
+
+### Workflowrobot / Conductor
+Copy all files to `C:\AM\AM Composer\Libraries` (Default folder)
+
 ## Unity Scope
 You have to use the following activities inside a Unity Scope Activity.
 
