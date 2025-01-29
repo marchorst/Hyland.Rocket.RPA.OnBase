@@ -41,7 +41,7 @@ The attributes you can get this way i.e.
 
 ## SHOWCASE ONLY: Finish Workflow Onbase Document by DocId 
 ### Warning
-Do not use this activity outside the showcase! If you need a fully functional activity please contact marc.horst@hyland.com or Michaela.Kroeber@hyland.com
+Do not use this activity outside the showcase! If you need a fully functional activity please contact marc.horst@hyland.com
 
 Currently it looks for the first Queue by DocId and executes the first AdHocUserTask.
 
